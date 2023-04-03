@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000y\u0000p\u0000e\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaSn0w/TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaSn0w/TypeScript/issues"
+  },
+  "homepage": "https://github.com/FaSn0w/TypeScript#readme",
+  "dependencies": {
+    "@types/nodemailer": "^6.4.7",
+    "nodemailer": "^6.9.1"
+  }
+}

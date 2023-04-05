@@ -25,8 +25,8 @@ const transporterConfig = new Transporter(
     "smtp.gmail.com",
     465,
     true, {
-    user: "eng.fbneves@gmail.com",
-    pass: "number666google",
+    user: "*************",
+    pass: "*************",
 });
 
 
